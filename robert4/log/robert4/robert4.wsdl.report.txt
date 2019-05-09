@@ -1,0 +1,14 @@
+
+
+Importing file: C:\Users\mmambi\IBM\IIBT10\UTSNew8\robert4\robert4.wsdl
+
+The WSDL import will proceed with bindings robert4HttpBinding.
+Creating wsdl schema document for file:///C:/Users/mmambi/IBM/IIBT10/UTSNew8/robert4/robert4.wsdl.
+Parsing wsdl binding {http://robert4}robert4HttpBinding.
+Parsing wsdl binding input operation1.
+Parsing wsdl binding output operation1.
+Processing doc style for operation operation1.
+Populating WSDL schema robert4.xsd.
+Creating file robert4.xsd in the workspace.
+Creating file robert4_InlineSchema1.xsd in the workspace.
+Copying source WSDL robert4.wsdl to robert4.wsdl.
